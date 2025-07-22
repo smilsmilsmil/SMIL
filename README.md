@@ -1,32 +1,42 @@
-# SMIL – Self-Made Interactive Learning
+# SMIL – Self-Made, In Learning 💻
 
-A personal project series focused on learning and improving Python skills — one day, one challenge at a time.
+Welcome! I'm SMIL, and this is my personal space for self-made Python projects — one small build at a time.
 
-These projects are created with the help of ChatGPT and built by me as part of my journey to become a better programmer. They start simple and gradually increase in difficulty.
+These are beginner-friendly CLI apps made by me, with help from ChatGPT, as part of my mission to grow as a developer. The projects start simple and scale in complexity as I improve.
 
-> 💡 Some of the code is written in Indonesian.
-
----
-
-## ⚙️ Project Goals
-
-- Build real, usable CLI apps
-- Practice clean, readable code
-- Develop problem-solving and logic
-- Stay consistent and improve daily
+> 🇮🇩 Some code is written in Indonesian.
 
 ---
 
-## 🚧 Current Projects
+## 🚀 Project Journey
 
-- ✅ Day 1: Number Guessing Game
-- ✅ Day 2: To-Do List CLI App (with file saving)
-- 🔜 Day 3: Quiz Game
-- ...more coming soon
+- ✅ **Day 1**: Number Guessing Game
+- ✅ **Day 2**: To-Do List App 
+- ✅ **Day 3**: Quiz Game
+- ✅ **Day 4**: Quiz Game EXPAND
+- 🔜 More days, more builds
 
 ---
 
-## 🗒️ Notes
+## 🎯 Goals
+
+- Learn by doing
+- Stay consistent
+- Focus on real-world code
+- Build a strong programming foundation
+
+---
+
+## 🛠️ Tools
+
+- Python 3
+- VSCode
+- Brain + Willpower
+
+---
+
+## 📌 Notes
 
 - No license (yet)
-- Feel free to explore, fork, or give feedback!
+- Feedback is welcome
+- I'm just getting started
