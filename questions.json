@@ -1,0 +1,332 @@
+[
+    {
+        "question": "What does the Central Prosessing Unit called?",
+        "option": [
+            "Pioneer",
+            "Main Engine",
+            "CPU",
+            "GPU"
+        ],
+        "answer": "c",
+        "category": "Technology"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "option": [
+            "Read Access Memory",
+            "Random Access Memory",
+            "Rapid Access Memory",
+            "Remote Access Module"
+        ],
+        "answer": "b",
+        "category": "Technology"
+    },
+    {
+        "question": "Which company created the iPhone?",
+        "option": [
+            "Samsung",
+            "Microsoft",
+            "Apple",
+            "Google"
+        ],
+        "answer": "c",
+        "category": "Technology"
+    },
+    {
+        "question": "What is the function of a GPU?",
+        "option": [
+            "Handle logic",
+            "Store data",
+            "Render graphics",
+            "Control power"
+        ],
+        "answer": "c",
+        "category": "Technology"
+    },
+    {
+        "question": "Which operating system is developed by Google?",
+        "option": [
+            "iOS",
+            "Android",
+            "Windows",
+            "Ubuntu"
+        ],
+        "answer": "b",
+        "category": "Technology"
+    },
+    {
+        "question": "What is HTML used for?",
+        "option": [
+            "Programming games",
+            "Styling pages",
+            "Building web structure",
+            "Storing data"
+        ],
+        "answer": "c",
+        "category": "Technology"
+    },
+    {
+        "question": "Which of these is not a programming language?",
+        "option": [
+            "Python",
+            "Java",
+            "Ruby",
+            "Windows"
+        ],
+        "answer": "d",
+        "category": "Technology"
+    },
+    {
+        "question": "What does URL stand for?",
+        "option": [
+            "Uniform Resource Locator",
+            "Universal Resource Link",
+            "User Readable Link",
+            "Unique Routing Line"
+        ],
+        "answer": "a",
+        "category": "Technology"
+    },
+    {
+        "question": "What device is used to input text?",
+        "option": [
+            "Monitor",
+            "Keyboard",
+            "Printer",
+            "Router"
+        ],
+        "answer": "b",
+        "category": "Technology"
+    },
+    {
+        "question": "Which one is a search engine?",
+        "option": [
+            "Facebook",
+            "YouTube",
+            "Google",
+            "Amazon"
+        ],
+        "answer": "c",
+        "category": "Technology"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "option": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Abraham Lincoln",
+            "John Adams"
+        ],
+        "answer": "b",
+        "category": "History"
+    },
+    {
+        "question": "In what year did World War II end?",
+        "option": [
+            "1943",
+            "1945",
+            "1948",
+            "1950"
+        ],
+        "answer": "b",
+        "category": "History"
+    },
+    {
+        "question": "Where did the Renaissance begin?",
+        "option": [
+            "France",
+            "England",
+            "Italy",
+            "Germany"
+        ],
+        "answer": "c",
+        "category": "History"
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "option": [
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Marco Polo"
+        ],
+        "answer": "b",
+        "category": "History"
+    },
+    {
+        "question": "Which empire built the Colosseum?",
+        "option": [
+            "Greek Empire",
+            "Ottoman Empire",
+            "Roman Empire",
+            "Persian Empire"
+        ],
+        "answer": "c",
+        "category": "History"
+    },
+    {
+        "question": "Which war was fought between the North and South in the US?",
+        "option": [
+            "Revolutionary War",
+            "Civil War",
+            "Cold War",
+            "Vietnam War"
+        ],
+        "answer": "b",
+        "category": "History"
+    },
+    {
+        "question": "What was the name of the ship that sank in 1912?",
+        "option": [
+            "Britannic",
+            "Titanic",
+            "Olympic",
+            "Lusitania"
+        ],
+        "answer": "b",
+        "category": "History"
+    },
+    {
+        "question": "Who was the famous female pharaoh of Egypt?",
+        "option": [
+            "Cleopatra",
+            "Hatshepsut",
+            "Nefertiti",
+            "Isis"
+        ],
+        "answer": "b",
+        "category": "History"
+    },
+    {
+        "question": "Which wall divided Berlin until 1989?",
+        "option": [
+            "Great Wall",
+            "Iron Wall",
+            "Berlin Wall",
+            "Wall of Europe"
+        ],
+        "answer": "c",
+        "category": "History"
+    },
+    {
+        "question": "Who led India to independence using non-violence?",
+        "option": [
+            "Nehru",
+            "Bhagat Singh",
+            "Gandhi",
+            "Tagore"
+        ],
+        "answer": "c",
+        "category": "History"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "option": [
+            "90\u00b0C",
+            "100\u00b0C",
+            "110\u00b0C",
+            "120\u00b0C"
+        ],
+        "answer": "b",
+        "category": "Science"
+    },
+    {
+        "question": "What planet is known as the Red Planet?",
+        "option": [
+            "Mars",
+            "Jupiter",
+            "Venus",
+            "Mercury"
+        ],
+        "answer": "a",
+        "category": "Science"
+    },
+    {
+        "question": "What gas do plants breathe in?",
+        "option": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "b",
+        "category": "Science"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "option": [
+            "HO",
+            "H2O",
+            "OH",
+            "H2O2"
+        ],
+        "answer": "b",
+        "category": "Science"
+    },
+    {
+        "question": "How many bones are in the adult human body?",
+        "option": [
+            "200",
+            "206",
+            "208",
+            "210"
+        ],
+        "answer": "b",
+        "category": "Science"
+    },
+    {
+        "question": "What force pulls things to Earth?",
+        "option": [
+            "Magnetism",
+            "Gravity",
+            "Friction",
+            "Momentum"
+        ],
+        "answer": "b",
+        "category": "Science"
+    },
+    {
+        "question": "What part of the plant conducts photosynthesis?",
+        "option": [
+            "Roots",
+            "Stems",
+            "Leaves",
+            "Flowers"
+        ],
+        "answer": "c",
+        "category": "Science"
+    },
+    {
+        "question": "Which organ pumps blood throughout the body?",
+        "option": [
+            "Lungs",
+            "Liver",
+            "Heart",
+            "Kidneys"
+        ],
+        "answer": "c",
+        "category": "Science"
+    },
+    {
+        "question": "Which vitamin is produced when skin is exposed to sunlight?",
+        "option": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "answer": "d",
+        "category": "Science"
+    },
+    {
+        "question": "Which planet is the largest in our solar system?",
+        "option": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "c",
+        "category": "Science"
+    }
+]

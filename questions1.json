@@ -1,0 +1,13 @@
+[
+    {
+        "question": "What does the Central Prosessing Unit called?",
+        "option": [
+            "Pioneer",
+            "Main Engine",
+            "CPU",
+            "GPU"
+        ],
+        "answer": "c",
+        "category": "Technology"
+    }
+]

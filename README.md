@@ -10,10 +10,9 @@ These are beginner-friendly CLI apps made by me, with help from ChatGPT, as part
 
 ## 🚀 Project Journey
 
-- ✅ **Day 1**: Number Guessing Game
-- ✅ **Day 2**: To-Do List App 
-- ✅ **Day 3**: Quiz Game
-- ✅ **Day 4**: Quiz Game EXPAND
+- ✅ Number Guessing Game
+- ✅ To-Do List App 
+- ✅ Quiz Game 
 - 🔜 More days, more builds
 
 ---
